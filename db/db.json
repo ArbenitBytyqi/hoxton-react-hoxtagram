@@ -11,14 +11,15 @@
       "title": "Coder cats",
       "likes": 5,
       "image": "./assets/coder-cat.jpeg"
+    },
+    {
+      "title": "cat",
+      "likes": 0,
+      "image": "https://i.natgeofe.com/n/46b07b5e-1264-42e1-ae4b-8a021226e2d0/domestic-cat_thumb.jpg",
+      "id": 3
     }
   ],
   "comments": [
-    {
-      "id": 1,
-      "content": "What a cute dog!",
-      "imageId": 1
-    },
     {
       "id": 2,
       "content": "He has the paws for this!",
@@ -28,11 +29,6 @@
       "id": 3,
       "content": "Someone's in trouble!",
       "imageId": 2
-    },
-    {
-      "imageId": 1,
-      "content": "Funny dog!!",
-      "id": 4
     },
     {
       "imageId": 1,
